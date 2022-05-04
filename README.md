@@ -1,6 +1,5 @@
-# jwt
+# node-mysql-registration-login-api
 
-http://localhost:3000/login
+Node.js + MySQL API for User Management, Authentication and Registration
 
-username and password in body
-
+For documentation and instructions see https://jasonwatmore.com/post/2020/08/18/nodejs-mysql-simple-api-for-authentication-registration-and-user-management
